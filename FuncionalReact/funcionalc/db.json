@@ -1,0 +1,56 @@
+{
+  "restaurante": [
+    {
+      "id": "1",
+      "nombre": "Patos pizza",
+      "direccion": "Calle OE8 lote 2735 y S37C",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs7mGrmctuQAEvJkcgHCcY7djy7X2N6NcWrA&s",
+      "valoracion": "2",
+      "tipo": "Parrillada"
+    },
+    {
+      "id": "2",
+      "nombre": "KFC",
+      "direccion": "Recreo",
+      "tipo": "Tradicional",
+      "valoracion": "3",
+      "imagen": "https://www.shutterstock.com/image-illustration/david-street-style-graphic-designtextile-600nw-2265632523.jpg"
+    },
+    {
+      "id": "503f",
+      "nombre": "Las papas de la J",
+      "direccion": "Solanda - La J",
+      "tipo": "Comida Rápida",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsFcJSwEPh8y_fg_G6AtU5Yk5zqVG3edz-CA&s",
+      "valoracion": "2"
+    },
+    {
+      "id": "b34e",
+      "nombre": "Ceviches de la roca",
+      "direccion": "12 de octubre",
+      "tipo": "Comida Rápida",
+      "imagen": "https://amazoniaexplorer.com/wp-content/uploads/2023/05/ceviche2.jpg",
+      "valoracion": "5"
+    }
+  ],
+  "clientes": [
+    {
+      "id": "1",
+      "nombre": "Ana",
+      "apellido": "García",
+      "email": "ana.garcia@email.com"
+    },
+    {
+      "id": "2",
+      "nombre": "Luis",
+      "apellido": "Martínez",
+      "email": "luis.martinez@email.com"
+    },
+    {
+      "id": "3",
+      "nombre": "Sofía",
+      "apellido": "Pérez",
+      "email": "sofia.perez@email.com"
+    }
+  ]
+}
